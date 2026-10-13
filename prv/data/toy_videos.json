@@ -1,0 +1,283 @@
+{
+ "_note": "SYNTHETIC toy data written for this demo. Not a real dataset and not taken from the paper.",
+ "videos": [
+  {
+   "id": "v_cooking",
+   "title": "synthetic baking show",
+   "synthetic": true,
+   "segments": [
+    {
+     "start": 0,
+     "end": 10,
+     "visual": "title card for a baking show episode",
+     "asr": "welcome to the show today we bake bread",
+     "audio_events": [
+      "theme music"
+     ],
+     "ocr": "Bake Along"
+    },
+    {
+     "start": 10,
+     "end": 20,
+     "visual": "chef weighs flour on a kitchen scale",
+     "asr": "first weigh five hundred grams of flour",
+     "audio_events": [
+      "scale beep"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 20,
+     "end": 30,
+     "visual": "chef kneads dough on a wooden table",
+     "asr": "knead for ten minutes until smooth",
+     "audio_events": [
+      "table thumping"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 30,
+     "end": 40,
+     "visual": "chef turns the oven dial",
+     "asr": "now set the oven to 180 degrees",
+     "audio_events": [
+      "oven click"
+     ],
+     "ocr": "Oven 180 degrees"
+    },
+    {
+     "start": 40,
+     "end": 50,
+     "visual": "dough rests under a cloth",
+     "asr": "let it rest for an hour",
+     "audio_events": [
+      "kitchen hum"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 50,
+     "end": 60,
+     "visual": "chef shapes the loaves",
+     "asr": "shape the loaves gently",
+     "audio_events": [
+      "dough slap"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 60,
+     "end": 70,
+     "visual": "loaves go into the oven",
+     "asr": "twenty five minutes should do it",
+     "audio_events": [
+      "oven door"
+     ],
+     "ocr": "Timer 25 min"
+    },
+    {
+     "start": 70,
+     "end": 80,
+     "visual": "golden bread on a cooling rack",
+     "asr": "thanks for watching",
+     "audio_events": [
+      "applause"
+     ],
+     "ocr": "See you next week"
+    }
+   ]
+  },
+  {
+   "id": "v_factory",
+   "title": "synthetic factory tour",
+   "synthetic": true,
+   "segments": [
+    {
+     "start": 0,
+     "end": 10,
+     "visual": "tour group gathers at the factory gate",
+     "asr": "welcome to the plant tour",
+     "audio_events": [
+      "crowd chatter"
+     ],
+     "ocr": "Plant Tour 2026"
+    },
+    {
+     "start": 10,
+     "end": 20,
+     "visual": "guide walks past the loading dock",
+     "asr": "the loading dock handles deliveries",
+     "audio_events": [
+      "truck engine"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 20,
+     "end": 30,
+     "visual": "the production line is running with robots moving parts",
+     "asr": "this production line has been shut down since spring",
+     "audio_events": [
+      "machine hum"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 30,
+     "end": 40,
+     "visual": "guide points at a safety poster",
+     "asr": "always wear a helmet in the plant",
+     "audio_events": [
+      "footsteps"
+     ],
+     "ocr": "Safety first"
+    },
+    {
+     "start": 40,
+     "end": 50,
+     "visual": "visitors watch the packing station",
+     "asr": "packed boxes leave every few minutes",
+     "audio_events": [
+      "box taping"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 50,
+     "end": 60,
+     "visual": "control room monitors show a dashboard",
+     "asr": "the control room tracks every shift",
+     "audio_events": [
+      "keyboard clicks"
+     ],
+     "ocr": "Production line status RUNNING live feed"
+    },
+    {
+     "start": 60,
+     "end": 70,
+     "visual": "gift shop shelves with souvenirs",
+     "asr": "souvenirs are on sale",
+     "audio_events": [
+      "till beep"
+     ],
+     "ocr": "Gift Shop"
+    },
+    {
+     "start": 70,
+     "end": 80,
+     "visual": "group leaves through the gate",
+     "asr": "thanks for visiting",
+     "audio_events": [
+      "crowd chatter"
+     ],
+     "ocr": ""
+    }
+   ]
+  },
+  {
+   "id": "v_market",
+   "title": "synthetic street market",
+   "synthetic": true,
+   "segments": [
+    {
+     "start": 0,
+     "end": 10,
+     "visual": "wide shot of a market street with awnings",
+     "asr": "good morning from the weekend market",
+     "audio_events": [
+      "street ambience"
+     ],
+     "ocr": "Weekend Market"
+    },
+    {
+     "start": 10,
+     "end": 20,
+     "visual": "vendor arranges fruit crates",
+     "asr": "fresh fruit every day",
+     "audio_events": [
+      "crates scraping"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 20,
+     "end": 30,
+     "visual": "flower stall with buckets of tulips",
+     "asr": "yes the flower stall is open on sunday",
+     "audio_events": [
+      "vendor calling"
+     ],
+     "ocr": "Flower stall closed on Sundays"
+    },
+    {
+     "start": 30,
+     "end": 40,
+     "visual": "customer pays for a bag of apples",
+     "asr": "that is three dollars please",
+     "audio_events": [
+      "coins"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 40,
+     "end": 50,
+     "visual": "musician plays near the fountain",
+     "asr": "please enjoy the music",
+     "audio_events": [
+      "accordion"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 50,
+     "end": 60,
+     "visual": "children eat ice cream",
+     "asr": "the ice cream truck comes at noon",
+     "audio_events": [
+      "bell"
+     ],
+     "ocr": "Ice cream 2 dollars"
+    },
+    {
+     "start": 60,
+     "end": 70,
+     "visual": "vendors fold their tables",
+     "asr": "see you all next week",
+     "audio_events": [
+      "tables folding"
+     ],
+     "ocr": ""
+    },
+    {
+     "start": 70,
+     "end": 80,
+     "visual": "empty street at dusk",
+     "asr": "",
+     "audio_events": [
+      "wind"
+     ],
+     "ocr": ""
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "q_oven",
+   "video_id": "v_cooking",
+   "text": "What oven temperature does the chef announce?"
+  },
+  {
+   "id": "q_line",
+   "video_id": "v_factory",
+   "text": "Is the production line running during the tour?"
+  },
+  {
+   "id": "q_stall",
+   "video_id": "v_market",
+   "text": "Is the flower stall open on Sunday?"
+  }
+ ]
+}
