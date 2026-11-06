@@ -84,7 +84,7 @@ examples/            supervision_records.jsonl (output of the demo)
 
 ## Citation
 
-The DOI is not yet available. Update this entry when it is registered.
+Paper: <https://doi.org/10.1145/3767308.3836283>
 
 ```bibtex
 @inproceedings{xiao2026prv,
@@ -92,7 +92,10 @@ The DOI is not yet available. Update this entry when it is registered.
   author    = {Xiao, Yifan and Xu, Dexuan and Li, Shijie and Huang, Yu},
   booktitle = {Proceedings of the 34th ACM International Conference on Multimedia (MM '26)},
   year      = {2026},
-  address   = {Rio de Janeiro, Brazil}
+  pages     = {12030--12039},
+  publisher = {ACM},
+  address   = {Rio de Janeiro, Brazil},
+  doi       = {10.1145/3767308.3836283}
 }
 ```
 
